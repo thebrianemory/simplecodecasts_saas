@@ -59,4 +59,4 @@ group :development do
 end
 
 # Authentication solution
-gem 'devise'
+gem 'devise', '3.5.6'
