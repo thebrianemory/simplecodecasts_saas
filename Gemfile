@@ -66,3 +66,6 @@ gem 'stripe'
 
 # Used to hide secret keys
 gem 'figaro'
+
+# Use paperclip for image uploads
+gem "paperclip", "~> 4.3"
